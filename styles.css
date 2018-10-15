@@ -1,0 +1,12 @@
+.urgent {
+  color: red;
+}
+
+.article__section {
+  background-color: black;
+  color: white;
+}
+.highlight {
+  background-color: yellow;
+  color: black;
+}
